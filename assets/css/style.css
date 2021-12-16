@@ -843,6 +843,20 @@ h1, h2, h3, h4, h5, h6 {
 #carouselExampleIndicators {
   margin-bottom: 24px
 }
+.wallets {
+  justify-content: space-between;
+}
+.btn-light {
+  display: flex;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  align-items: center;
+  font-size: 13px;
+  font-weight: bold;
+}
+.modal-footer {
+  justify-content: center!important;
+}
 /*--------------------------------------------------------------
 # Icons list page
 --------------------------------------------------------------*/
